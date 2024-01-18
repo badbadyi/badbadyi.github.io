@@ -26,8 +26,8 @@ authors: [badbadyi]
 ```yaml
 spring:
   datasource:
-    username: arthur
-    password: Yi0807@sql
+    username: username
+    password: password
     url: jdbc:postgresql://localhost:5432/commondb
     driver-class-name: org.postgresql.Driver
 ```
