@@ -2,7 +2,7 @@
 
 title: PostgreSQL的安装和配置
 categories: [计算机, 数据库]
-tags: [postgreSQL]
+tags: [PostgreSQL]
 authors: [badbadyi]
 
 ---

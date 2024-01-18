@@ -1,8 +1,8 @@
 ---
 
 title: Github SSH Timed Out
-categories: [计算机, 问题排查]
-tags: [速记, git, 问题排查]
+categories: [计算机, 速记]
+tags: [速记, git]
 authors: [badbadyi]
 
 ---
